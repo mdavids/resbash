@@ -6,7 +6,7 @@
  * Resbash - Designed to hit a resolver hard with queries                      *
  * We want to trigger the resolver to do validation. We are not interested in  *
  * replies. The idea is that the resolver will log servfail's, if they occur,  *
- * and that we will use that loggin.                                           *
+ * and that we will use that logging.                                           *
  *                                                                             *
  * Adapted by:                                                                 *
  *   Marco Davids - SIDN Labs                                                  *
