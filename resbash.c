@@ -26,7 +26,7 @@
 // TODO:
 // [WONTFIX] trailing-dot in domains.lst file, or hardcoded here?
 //
-// Beter input validation on domainnames (label-length etc)
+// Better input validation on domainnames (label-length etc)
 //
 // Perhaps: IPv6 ?
 //
